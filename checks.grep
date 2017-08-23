@@ -1,0 +1,8 @@
+grep '  ' *.htm && echo 'Double space'
+grep ' \.' *.htm && echo 'Space before period'
+grep '\.[^ ]' *.htm | grep -v 'mystyle.css' | grep -v 'spp\.' | grep -v 'sp\.' | grep -v '\.</' && echo 'No space after period - CHECK MANUALLY'
+grep '[Vv]allei' *.htm && echo 'Spelling is Verloren Valei (one l)'
+grep '\b\(eg\b\|e\.g[^.]\)' *.htm && echo 'Using e.g.'
+grep 'KZN' && echo 'Dont use KZN' 
+grep 'KwaZulu' | grep -v 'KwaZulu&#8211;Natal' && echo 'Use KwaZulu&#8211;Natal'
+
