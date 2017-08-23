@@ -1,4 +1,4 @@
-
+﻿
  
  
  
@@ -6981,7 +6981,10 @@ the KwaZuluNatal coast and n E Cape. It is fond of fermenting fruit and comes re
  Probably yearround, but usually MarAug (peak AprJun). 
  Back to Top 
  Larval food 
- Poaceae grasses, including  Setaria  spp., and  Panicum deustum . Bred on  Ehrharta erecta . 
+ Poaceae grasses, including  Setaria  spp., and  Panicum deustum . Bred on Ehrharta erecta .
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+[[[[[[ Spell-checked to here ]]]]] 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
  Back to Top 
  Group 
  Evening Browns 
