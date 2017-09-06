@@ -27,10 +27,11 @@ species' (not species's)
 James's, Brauns's..
 ?nr
 A. a. albimaculata (not A.a.albimaculata) etc...
-?437360.htm: CuA<i>1</i> (should be <sub>1</sub>?)
 subscripts: CUA<sub>x</sub>, M<sub>x</sub>,
 ?471660.htm, 471670.htm: CuA<sub></sub> (missing subscript)
-?hilltop (not hill-top)
+?hilltop (v) (not hill-top)
+hill top (n)
+hilltop (adj phrase)
 ?NR, GR
 centimetre, metre, kilometre
 wingbeats (not wing beats) 
