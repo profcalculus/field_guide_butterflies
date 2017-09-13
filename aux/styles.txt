@@ -4,7 +4,8 @@ STYLE/CONSISTENCY  ISSUES:
 [Hh]opper
 [Ss]kipper
 Cymothoe (not Cymotho&#235; (diaresis))
-28-35 mm (not ca. 28-35 mm)
+28-35mm (not ca. 28-35 mm)
+1 035m 
 Province names: E Cape, NW Province, W Cape, N Cape
 l/c compass points for parts of provinces (eg n E Cape) except at start of sentence.
 ? spell out compass points?
