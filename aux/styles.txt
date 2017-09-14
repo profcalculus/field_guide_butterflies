@@ -34,7 +34,7 @@ hill top (n)
 hilltop (adj phrase)
 ?NR, GR
 centimetre, metre, kilometre
-wingbeats (not wing beats) 
+wingbeats, wingspan, wingtip etc. (not wing beats  or wing-beats)
 lustre (not luster)
 single-brooded, double-brooded
 kidney-shaped
@@ -64,3 +64,6 @@ f. <i>draconis</i> (with space)(etc)
 fast-flying, slow-flying
 forewing, hind wing
 frederikeae (not frederikae)
+'arrowhead' (no cap, except in common name)
+09h00 (etc)
+sub-basal
